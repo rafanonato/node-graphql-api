@@ -1,0 +1,20 @@
+{
+    "compilerOptions":{
+        "lib":[
+            "esnext"
+        ],
+    
+        "target":"es6",
+        "module":"commonjs"
+    },
+
+    "compileOnSave": false, 
+    
+    "include":[
+        "scr/**/*.ts"
+    ],
+
+    "exclude":[
+        "node_modules"
+    ]
+}
